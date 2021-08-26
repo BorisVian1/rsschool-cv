@@ -34,5 +34,5 @@ Junior Dev : [Git](https://github.com/BorisVian1/testingApp 'GitHub').
 * Form: correspondence;
 * Year of graduation: 2019.
 ## *English language:*
-А1. Breakthrough or beginner
+А1. Breakthrough or beginner.
 
