@@ -7,7 +7,7 @@ Punctuality, responsibility, decency, the ability to teach, perseverance, patien
 2.  Site layout (HTML + CSS+ Bootstrap+ Adobe Photoshop).
 3.  Administration of Linux and Windows servers.
 4.  Monitoring of network health and network equipment
-
+5.  Information security support
 ## *Code examples:*
 `` class PinLogin {
     constructor({el, loginEndpoint, redirectTo, maxNumbers = Infinity}){
