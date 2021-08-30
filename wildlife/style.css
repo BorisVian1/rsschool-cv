@@ -6,6 +6,8 @@ body {
     color: #F7F7F7;;
     padding: 0;
     margin: 0;
+    font-weight: 400;
+    font-style: normal;
 }
 
 div {
@@ -14,21 +16,22 @@ div {
 
 header {
     background: url("./assets/img/Fone.jpg") no-repeat center top;
-    height: 100vh;
+    height: 780px;
 }
 .container {
     width: 
-    1200px;
+    1250px;
     height: 520px;
     margin: 0 auto;
 }
 
 .heading {
     display: flex;
+    padding-top: 20px;
 }
 
 .logo {
-    margin-top: 20px;
+   cursor: none;
     width: 68px;
     height: 58px;
     left: 
@@ -37,6 +40,8 @@ header {
 }
 
 .heading h1 {
+    
+    cursor: none;
     font-family: Roboto;
     font-size: 32px;
     text-transform: uppercase;
@@ -47,7 +52,7 @@ header {
 
 nav {
     margin-left: 480px;
-    margin-top: 20px;
+    margin-top: 35px;
 }
 
 .menu {
@@ -69,6 +74,7 @@ nav {
 }
 
 .search {
+    padding-top: 20px;
     outline: none;
     border: none;
     width: 24px;    
@@ -77,6 +83,61 @@ nav {
     background-size: auto 90%;
 }
 
+
 .submit {
-    margin-left: 50px;
+    margin-left: 66px;
+    width: 120px;
+    height: 50px;
+    border-radius: 5px;
+    border: 2px solid #CD6326;
+    box-sizing: border-box;
+    filter: drop-shadow(-150px 0px 150px #02160B);
+    background: none;
+    color: #F7F7F7;
+    font-family: Roboto;
+    font-size: 23px;
+    line-height: 27px;
+    text-align: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.survival {
+    margin-top: 120px;
+    width: 199px;
+    height: 72px;
+}
+
+.survival h1 {
+    display: block;
+    width: 199px;
+    height: 72px;
+    font-family: Open Sans;
+    font-size: 48px;
+    line-height: 72px;
+    color: #CD6326;
+    letter-spacing: 2px;
+}
+
+
+.survival p {
+    font-family: Open Sans;
+    margin-top: 51px;
+    display: block;
+    width: 274px;
+    height: 108px;
+    color: inherit;
+}
+
+.survival button {
+    margin-top: 49px;
+    display: block;
+    width: 160px;
+    height: 60px;
+    text-align: center;
+    color: #F7F7F7;
+    background: #CD6326;
+    font-size: 23px;
+    line-height: 26,95px;
+    border-radius: 5px;
 }
