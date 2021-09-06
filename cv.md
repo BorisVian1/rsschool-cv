@@ -32,6 +32,6 @@ Junior Dev : [Git](https://github.com/BorisVian1/testingApp 'GitHub').
 * Institute: Volga State University of Telecommunications and Informatics;
 * Faculty: Information Systems and Technologies;
 * Form: correspondence;
-* Year of graduation: 2019.
+* Year of graduation: 201.
 ## *English language:*
 А1. Breakthrough or beginner.
